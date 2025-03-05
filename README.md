@@ -23,8 +23,8 @@ cd quantum_defi_platform
 Build the project:
 
 cargo build
-Usage
 
+Usage
 Run the application:
 
 cargo run
